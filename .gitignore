@@ -1,1 +1,6 @@
 wx4py*
+wxjl2excel*
+build/
+dist/
+*.spec
+version_info.txt
